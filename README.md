@@ -1,7 +1,7 @@
 teja137/README.md
 👋 Hi, I’m @teja137, Prabhu Teja Pamula
 👀 I’m interested in creating awesome, cool futuristic web applications.
-🌱 I’m currently learning adobe xD, at the moment
+🌱 I’m currently learning angular
 💞️ I’m looking to collaborate on fun, cool, experimental projects
 📫 How to reach me email: ajetdream@yahoo.com or Instagram: https://www.instagram.com/prabhu.tejaa
 <!---
