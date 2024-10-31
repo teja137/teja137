@@ -4,8 +4,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/teja137/teja137/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmozeHhsbWI1c2hqbml5MnF2cjVjZm4wZm1lYnkwdHM2ejVkcTJ4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KWcGnX2iz0G1fMMHrO/giphy.gif"  />
