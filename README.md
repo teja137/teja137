@@ -18,6 +18,7 @@
     <br>
     ⚡ Fun fact **I believe that life’s about growth, gratitude, and staying true to myself—no matter the challenges! 🌱**
 </div>
+<br/>
 
 <div align="center"> 
   <a href="https://leetcode.com/u/teja137/" target="_blank">
