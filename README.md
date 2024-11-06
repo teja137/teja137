@@ -48,7 +48,7 @@
   <img style="width: 22%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=teja137&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-https://pin.it/2sdfcIDMc
+![Inward _ Confusion (loop)](https://github.com/user-attachments/assets/df73cc84-29be-4f65-a0a6-8d596de9ccf6)
 
 
 
