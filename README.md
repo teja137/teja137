@@ -10,14 +10,17 @@
 <br/>
 
 <div align="center">
-    🔭 I’m currently pursuing Master’s in Computer Applications **Vellore Institute of Technology**
-    <br>
-    🌱 I’m currently learning **Python, Discrete Mathematical Structures, Database Systems, Data Structures & Algorithm, Operating Systems**
-    <br>
-    💬 Ask me about **Node.js, Angular, Firebase... or anything [here](https://github.com/teja137/teja137/issues)**
-    <br>
-    ⚡ Fun fact **I believe that life’s about growth, gratitude, and staying true to myself—no matter the challenges! 🌱**
-</div>
+ 
+ 🔭 Currently pursuing Master’s in Computer Applications a **Vellore Institute of Technology**
+ 
+ 🌱 Learning **Python, Discrete Mathematical Structures, Databases Systems, Data Structures and Algorithms and  Operating Systems**
+
+ 💬 Ask me about **Node.js, Angular, Java... or anything [here](https://github.com/teja137/teja137/issues)**
+
+ ⚡ Fun fact **I believe in growth, gratitude, and staying true to myself! 🌱**
+
+ </div>
+
 <br/>
 
 <div align="center"> 
