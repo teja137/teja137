@@ -2,7 +2,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/teja137/teja137/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </div>
 <div align="center" style="font-size: 2em; font-weight: bold; margin: 0;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&color=1E88E5&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏽;+I'm+Prabhu+Teja+Pamula!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&color=707070&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏽;+I+am+Prabhu+Teja+Pamula!;" />
 </div>
 
 <h3 align="center">A passionate software developer from Hyderabad 🇮🇳</h3>
