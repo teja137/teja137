@@ -1,5 +1,5 @@
 
-<div style="border: 5px solid #FF5733; padding: 20px; border-radius: 15px;">
+<div style="border: 5px solid ##FFFFFFFF; padding: 20px; border-radius: 15px;">
   <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/teja137/teja137/output/github-contribution-grid-snake.svg" />
 </div>
