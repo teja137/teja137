@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF0000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏽;+I'm+Prabhu+Teja+Pamula!;" />
 </h1>
 
+<h3 align="center" style="border: none; text-decoration: none;">A passionate software developer from Hyderabad 🇮🇳</h3>
 
 
 <br/>
