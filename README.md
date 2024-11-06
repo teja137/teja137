@@ -53,8 +53,8 @@
 <br>
 
 <div align=left>
-  <img width=50% align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=teja137&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img width=50% src="https://github-readme-stats-salesp07.vercel.app/api?username=teja137&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=teja137&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=40% align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=teja137&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=40% src="https://github-readme-stats-salesp07.vercel.app/api?username=teja137&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=100% src="https://github-readme-streak-stats-salesp07.vercel.app/?user=teja137&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br/>
 </div>
