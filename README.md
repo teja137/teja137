@@ -1,9 +1,7 @@
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/teja137/teja137/output/github-contribution-grid-snake.svg" />
 </div>
-<h1 align="center" style="border: none; text-decoration: none;">
     <img src="https://readme-typing-svg.herokuapp.com/?width=500&height=70&duration=4000&lines=Hi+There!+👋🏽;+I'm+Prabhu+Teja+Pamula!;" />
-</h1>
 
 <h3 align="center">A passionate software developer from Hyderabad 🇮🇳</h3>
 
