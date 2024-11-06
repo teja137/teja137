@@ -6,6 +6,20 @@
 
 <h3 align="center">A passionate software developer from Hyderabad 🇮🇳</h3>
 
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently pursuing Master’s in Computer Applications **Vellore Institute of Technology**
+ 
+ 🌱 I’m currently learning **Python, Discrete Mathematical Structures, Database Systems, Data Structures & Algorithm, Operating Systems**
+
+💬 Ask me about **Node.js, Angular, Firebase... or anything [here](https://github.com/teja137/teja137/issues)**
+
+⚡ Fun fact **I believe that life’s about growth, gratitude, and staying true to myself—no matter the challenges! 🌱**
+
+ </div>
+
 
 
 
