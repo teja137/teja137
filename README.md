@@ -16,7 +16,7 @@
 
  💬 Ask me about **Node.js, Angular, Java... or anything [here](https://github.com/teja137/teja137/issues)**
 
- ⚡ Fun fact **I believe in growth, gratitude, and staying true to myself! 🌱**
+ ⚡ Fun fact **Life’s short, so live it up! Nothing really matters in the end—we’re all stardust anyway**
 
  </div>
 
