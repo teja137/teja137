@@ -12,7 +12,7 @@
  
  🔭 Currently pursuing Master’s in Computer Applications a **Vellore Institute of Technology**
  
- 🌱 Learning **Python, Discrete Mathematical Structures, Databases Systems, Data Structures and Algorithms and  Operating Systems**
+ 🌱 Learning **Python, Discrete Mathematical Structures, Databases Systems, Data Structures and Algorithms, Operating Systems**
 
  💬 Ask me about **Node.js, Angular, Java... or anything [here](https://github.com/teja137/teja137/issues)**
 
