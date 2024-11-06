@@ -1,10 +1,3 @@
-
-<div style="border: 5px solid #2C3E50; padding: 20px; border-radius: 15px; background-color: #f4f4f4; max-width: 80%; margin: auto;">
-  <!-- Content goes here -->
-  <h2 align="center">Your Heading Here</h2>
-  <p align="center">This is a box with a border and some content inside it.</p>
-</div>
-
   <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/teja137/teja137/output/github-contribution-grid-snake.svg" />
 </div>
