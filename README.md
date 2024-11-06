@@ -1,5 +1,5 @@
   <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/teja137/teja137/output/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/teja137/teja137/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </div>
 <div align="center" style="font-size: 2em; font-weight: bold; margin: 0;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏽;+I'm+Prabhu+Teja+Pamula!;" />
