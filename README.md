@@ -6,7 +6,8 @@
 </div>
 <h3 align="center">A passionate software developer from Hyderabad 🇮🇳</h3>
 <div align="center">
- 
+ <div align="left">
+   
  🔭 Currently pursuing Master’s in Computer Applications a **Vellore Institute of Technology**
  
  🌱 Learning **Python, Discrete Mathematical Structures, Databases Systems, Data Structures and Algorithms, Operating Systems**
@@ -15,6 +16,7 @@
 
  ⚡ Fun fact **Life’s short, so live it up! Nothing really matters in the end, we’re all stardust anyway**
 
+ </div>
  </div>
 <br/>
 <div align="center"> 
