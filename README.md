@@ -8,7 +8,7 @@
 <div align="center">
  <div align="left">
    
- 🔭 Currently pursuing Master’s in Computer Applications a **Vellore Institute of Technology**
+ 🔭 Currently pursuing Master’s in Computer Applications at **Vellore Institute of Technology**
  
  🌱 Learning **Python, Discrete Mathematical Structures, Databases Systems, Data Structures and Algorithms, Operating Systems**
 
