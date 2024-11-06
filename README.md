@@ -50,8 +50,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img style="width: 32%; padding-right: 10px;" align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=teja137&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <img style="width: 32%; padding-left: 10px;" src="https://github-readme-stats-salesp07.vercel.app/api?username=teja137&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img style="width: 32%;" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=teja137&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+  <img style="width: 32%; box-sizing: border-box;" align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=teja137&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img style="width: 32%; box-sizing: border-box;" src="https://github-readme-stats-salesp07.vercel.app/api?username=teja137&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img style="width: 32%; box-sizing: border-box;" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=teja137&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
+
