@@ -47,6 +47,7 @@
   <img style="width: 35%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=teja137&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img style="width: 22%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=teja137&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-<img src="https://media.giphy.com/media/26tP7i0jysIEbM5W0/giphy.gif" alt="Example GIF" />
+<img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhtN3hpMmE2YWpheWxubnZjNmlnODVtMnRzd3NqeXN4bGllZjFwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LP6GJPjrPXlqdCOmA2/giphy-downsized-large.gif" alt="GIF Example" />
+
 
 
