@@ -1,5 +1,10 @@
 
-<div style="border: 5px solid #FFFFFFFF; padding: 20px; border-radius: 15px;">
+<div style="border: 5px solid #2C3E50; padding: 20px; border-radius: 15px; background-color: #f4f4f4; max-width: 80%; margin: auto;">
+  <!-- Content goes here -->
+  <h2 align="center">Your Heading Here</h2>
+  <p align="center">This is a box with a border and some content inside it.</p>
+</div>
+
   <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/teja137/teja137/output/github-contribution-grid-snake.svg" />
 </div>
@@ -48,6 +53,5 @@
   <img style="width: 33%" src="https://github-readme-stats-salesp07.vercel.app/api?username=teja137&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img style="width: 35%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=teja137&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img style="width: 22%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=teja137&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 </div>
 
