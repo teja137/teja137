@@ -56,9 +56,9 @@
                 <div align="left">
         
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=teja137&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-                <div align="right">
+                <span align="right">
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=teja137&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  </div>
+  </span>
                 </div>
 
   <br/>
