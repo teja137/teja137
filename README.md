@@ -42,6 +42,6 @@
   <img style="width: 35%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=teja137&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
 </div>
 <br/><br/>
-<div align="center">
+<div align="right">
   <img height="700" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlodjltemU1ZTV1eGRycnFuZHY3bGhnOTM2OHYxYzEyMnc2OGd6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o8dp1ZYQ4qFrWxW6I/giphy.gif"  />
 </div>
