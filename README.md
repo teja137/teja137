@@ -21,17 +21,17 @@
 <br/>
 <div align="center"> 
   <a href="https://leetcode.com/u/teja137/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=angular,apple,bootstrap,c,css,discord,electron,eclipse,figma,git,gitlab,github,html,java,javascript,linux,mysql,nodejs,npm,python,regex,spring,stackoverflow,typescript,vscode,windows" />
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/prabhu-teja-pamula/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c,java,javascript,mysql,nodejs,python,typescript" /><br>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /><br>
   </a>
 </div>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,mui,html,css,vscode,github,figma,git,androidstudio&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,mysql&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=angular,apple,bootstrap,c,css,discord,electron,eclipse,figma,git,gitlab,github,html,java,javascript,linux,mysql,nodejs,npm,python,regex,spring,stackoverflow,typescript,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=c,java,javascript,mysql,nodejs,python,typescript" /><br>
 </div>
 <br/>
 <h2 align="center">⚡ Stats ⚡</h2>
