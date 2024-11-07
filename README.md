@@ -30,8 +30,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,apple,autocad,bootstrap,c,css,discord,electron,eclipse,figma,git,gitlab,github,html,idea,java,javascript,linux,mysql,nodejs,npm,postman,python,regex,spring,stackoverflow,threejs,typescript,vscode,windows" />
-  <br>
+  <img src="https://skillicons.dev/icons?i=angular,apple,autocad,bootstrap,c,css,discord,electron,eclipse,figma,git,gitlab,github,html,idea,java,javascript,linux,mysql,nodejs,npm,postman,python,regex,spring,stackoverflow,threejs,typescript,vscode,windows" />
 </div>
 <br/>
 <h2 align="center">⚡ Stats ⚡</h2>
