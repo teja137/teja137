@@ -35,9 +35,13 @@
 </div>
 <br/>
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<br/>
 <div align="center">
   <img style="width: 33%" src="https://github-readme-stats-salesp07.vercel.app/api?username=teja137&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
   <img style="width: 22%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=teja137&langs_count=8&layout=demo&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <img style="width: 35%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=teja137&count_private=true&theme=dark&border_radius=10" alt="streak stats"/>
+</div>
+<br/><br/>
+<div align="center">
+  <img height="700" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlodjltemU1ZTV1eGRycnFuZHY3bGhnOTM2OHYxYzEyMnc2OGd6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o8dp1ZYQ4qFrWxW6I/giphy.gif"  />
 </div>
