@@ -2,7 +2,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/teja137/teja137/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </div>
 <div align="center" style="font-size: 2em; font-weight: bold; margin: 0;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&color=707070&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏽;+I+am+Prabhu+Teja+Pamula!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&color=707070&pause=1000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏽;+I+am+Prabhu+Teja+Pamula!;" />
 </div>
 <h3 align="center">A passionate Software Engineer from Hyderabad 🇮🇳</h3>
 <div align="center">
@@ -30,8 +30,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,apple,autocad,bootstrap,c,css,discord,electron,eclipse,figma,git,gitlab,github,html,idea,java,javascript,linux,mysql,nodejs,npm,postman,python,regex,spring,stackoverflow,threejs,typescript,vscode,windows" />
-</div>
+  <img src="https://skillicons.dev/icons?i=angular,apple,autocad,bootstrap,c,css,discord,electron,eclipse,figma,git,gitlab,github,html,idea,java,javascript,linux,mysql,nodejs,npm,postman,python,regex,spring,stackoverflow,threejs,typescript,vscode,windows" />
+
+</div>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
 <div align="center">
